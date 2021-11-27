@@ -1,1 +1,1 @@
-console.log("Empezamos la clase de javascript");
+console.log("Soy mauri");
